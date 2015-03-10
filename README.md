@@ -3,7 +3,7 @@ Glossy UIButton subclass for iOS
 
 Grossy button can be configured with Xcode IB inspector. You can customize button surface color and glossiness from 0.0 to 1.0.  Text color or text font can be configured with standard IB inspector.
 
-![IB Inspector](codelynx.github.com/ZGlossyButton/images/1_buttons.png)
+![IB Inspector](https://raw.github.com/codelynx/ZGlossyButton/master/images/1_buttons.png)
 
 Sample buttons with different colors and different glossiness.
 
