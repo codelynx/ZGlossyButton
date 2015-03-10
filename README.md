@@ -7,7 +7,7 @@ Grossy button can be configured with Xcode IB inspector. You can customize butto
 
 Sample buttons with different colors and different glossiness.
 
-![Buttons](wiki/images/1_buttons.png)
+![Buttons](https://raw.github.com/codelynx/ZGlossyButton/master/images/2_inspector.png)
 
 ## Environment
 iOS 7 or later, but should work with iOS6 (not tested)
